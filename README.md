@@ -4,7 +4,7 @@
 
 可以用它来管理学生信息和抽取学生。
 
-这里是我们的隐私政策。
+这里是我们的隐私政策。 https://github.com/Xiaohuba/Some-App-Tech-Support/blob/main/privacy.md
 
 以下是一些截屏。
 ![Image text](https://raw.githubusercontent.com/Xiaohuba/Some-App-Tech-Support/main/IMG_1729.PNG)
